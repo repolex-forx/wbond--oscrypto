@@ -1,0 +1,7 @@
+[2026-10-19T13:17:02Z] === AST ITERATION 1 START | repo=wbond/oscrypto sha=76bfdcb7 ===
+[2026-10-19T13:17:02Z] [iter=1] PHASE START: ast repo=wbond/oscrypto sha=76bfdcb7
+[2026-10-19T13:17:02Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T13:18:52Z] [iter=1] AST chunks built count=1 triples=1010207
+[2026-10-19T13:18:52Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/76bfdcb7285d856c44f8d0fbafe0ecca1c6d2f8b/.complete
+[2026-10-19T13:18:52Z] [iter=1] PHASE END: ast elapsed_s=110 elapsed_min=1.8
+[2026-10-19T13:18:52Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

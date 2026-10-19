@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/wbond/oscrypto/commit/76bfdcb7285d856c44f8d0fbafe0ecca1c6d2f8b",
       "git:hexsha": "76bfdcb7285d856c44f8d0fbafe0ecca1c6d2f8b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/wbond/oscrypto/commit/e217c9aa24df51694c17f152b3be4659b10ac265",
